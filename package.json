@@ -1,0 +1,22 @@
+{
+  "name": "simple-log-webpack-plugin",
+  "version": "0.1.1",
+  "description": "Intends to make it simpler with webpack-system  when using console.log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "color-hash": "^1.0.3"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "console",
+    "log",
+    "simple",
+    "enhance"
+  ],
+  "author": "winder",
+  "license": "ISC"
+}
