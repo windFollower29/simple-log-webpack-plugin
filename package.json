@@ -1,6 +1,6 @@
 {
   "name": "simple-log-webpack-plugin",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Intends to make it simpler with webpack-system  when using console.log",
   "repository": {
     "type": "git",
