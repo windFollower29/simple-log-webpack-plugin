@@ -2,12 +2,9 @@
   "name": "simple-log-webpack-plugin",
   "version": "0.1.1",
   "description": "Intends to make it simpler with webpack-system  when using console.log",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/windFollower29/simple-log-webpack-plugin.git"
-  },
   "main": "index.js",
   "scripts": {
+    "example": "webpack -w --inspect-brk",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
